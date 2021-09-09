@@ -1,0 +1,7 @@
+com\ubs\prime\primeNumber\GenericExpHandler\CustomizedExceptionHandler.class
+com\ubs\prime\primeNumber\Swagger\SwaggerConfig.class
+com\ubs\prime\primeNumber\PrimeNumberApplication.class
+com\ubs\prime\primeNumber\Beans\PrimeNumber.class
+com\ubs\prime\primeNumber\GenericExpHandler\ExceptionResponse.class
+com\ubs\prime\primeNumber\Controller\PrimeNumberController.class
+com\ubs\prime\primeNumber\Service\PrimeNumberServices.class
